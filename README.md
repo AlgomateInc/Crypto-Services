@@ -7,4 +7,4 @@ List of all the exchange being considered to be added to the Algomate Platform
 | ![55]        | 55      | 55     | 55     | 55     |
 
 [50x]: 50x.png
-[55]: 55 . COM.png
+[55]: 55%20.%20COM.png
