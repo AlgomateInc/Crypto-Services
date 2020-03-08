@@ -7,7 +7,7 @@ List of all the exchange being considered to be added to the Algomate Platform
 | ![55]        |  55.com   |     |      |      |
 | ![ABCC]        |  ABCC   |     |      |      |
 | ![ACX]        |  ACX   |     |      |      |
-| ![AidosMarket |  Aidos Market   |     |      |      |
+| ![AidosMarket] |  Aidos Market   |     |      |      |
 | ![Airswap]        |  Airswap   |     |      |      |
 | ![Allbit]        |  Allbit   |     |      |      |
 | ![Allcoin]        |  Allcoin   |     |      |      |
@@ -24,7 +24,7 @@ List of all the exchange being considered to be added to the Algomate Platform
 [Airswap]: Airswap.png
 [Allbit]: Allbit.png
 [Allcoin]: Allcoin.png
-[Altcoin Trader]: Alcoin%20Trader.png
+[Altcoin Trader]: Altcoin%20Trader.png
 [Alterdice]: Alterdice.png
 [Altilly]: Altilly.png
 [Aphelion]: Aphelion.png
