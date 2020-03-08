@@ -8,7 +8,7 @@ List of all the exchange being considered to be added to the Algomate Platform
 | ![ABCC]        |  ABCC   |     |      |      |
 | ![ACX]        |  ACX   |     |      |      |
 | ![AidosMarket] |  Aidos Market   |     |      |      |
-| ![Airswap]        |  Airswap   |     |      |      |
+| ![Airswap]        |  AirSwap   |     |      |      |
 | ![Allbit]        |  Allbit   |     |      |      |
 | ![Allcoin]        |  Allcoin   |     |      |      |
 | ![Altcoin Trader]        |  Altcoin Trader   |     |      |      |
@@ -21,7 +21,7 @@ List of all the exchange being considered to be added to the Algomate Platform
 [ABCC]: ABCC.png
 [ACX]: ACX.png
 [AidosMarket]: AidosMarket.png
-[Airswap]: Airswap.png
+[Airswap]: AirSwap.png
 [Allbit]: Allbit.png
 [Allcoin]: Allcoin.png
 [Altcoin Trader]: Altcoin%20Trader.png
