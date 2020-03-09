@@ -1,19 +1,19 @@
 # Exchanges
 List of all the exchange being considered to be added to the Algomate Platform
 
-| __Logo__ | __Exchange Name__ | __Status__ | __Referral__ | __Algomate Score__ |
-|-------------|------------|------------|------------|------------|
-| ![50x]         |  50x  |       |     |      |
-| ![55]        |  55.com   |     |      |      |
-| ![ABCC]        |  ABCC   |     |      |      |
-| ![ACX]        |  ACX   |     |      |      |
-| ![AidosMarket] |  Aidos Market   |     |      |      |
-| ![Airswap]        |  AirSwap   |     |      |      |
-| ![Allbit]        |  Allbit   |     |      |      |
-| ![Allcoin]        |  Allcoin   |     |      |      |
-| ![Altcoin Trader]        |  Altcoin Trader   |     |      |      |
-| ![Alterdice]        |  Alterdice   |     |      |      |
-| ![Altilly]        |  Altilly   |     |      |      |
+| __Logo__ | __Exchange Name__ | __Status__ | __Referral__ | __Algomate Score__ | __Notes__ |
+|-------------|------------|------------|------------|------------|------------|
+| ![50x]         |  50x  |       |     |      |      |
+| ![55]        |  55.com   |     |      |      |      |
+| ![ABCC]        |  ABCC   |     |      |      |      |
+| ![ACX]        |  ACX   |     |      |      |      |
+| ![AidosMarket] |  Aidos Market   |     |      |      |      |
+| ![Airswap]        |  AirSwap   |     |      |      |      |
+| ![Allbit]        |  Allbit   |     |      |      |      |
+| ![Allcoin]        |  Allcoin   |     |      |      |      |
+| ![Altcoin Trader]        |  Altcoin Trader   |     |      |      |      |
+| ![Alterdice]        |  Alterdice   |     |      |      |      |
+| ![Altilly]        |  Altilly   |     |      |      |      |
 
 
 [50x]: 50x.png
@@ -49,6 +49,325 @@ List of all the exchange being considered to be added to the Algomate Platform
 [Binance US]: Binance%20US.png
 [Binance]: Binance.png
 [Birake]: Birake%20Network.png
+[Bisq]: Bisq.png
+[Bit2C]: Bit2C.png
+[BitAsset]: BitAsset.png
+[Bitbank]: Bitbank.png
+[BitBay]: BitBay.png
+[Bitbns]: Bitbns.png
+[Bitci]: Bitci.png
+[Bitcoin.com]: Bitcoin%20.%20COM.png
+[Bitcoin Trade]: Bitcoin%20Trade.png
+[BitcoinToYou]: BitcoinToYou.png
+[Bitex.la]: Bitex.la.png
+[Bitfinex]: Bitfinex.png
+[bitFlyer]: bitFlyer.png
+[BitForex]: BitForex.png
+[Bitfront]: Bitfront.png
+[Bithesap]: Bithesap.png
+[Bithumb Global]: Bithumb%20Global.png
+[Bithumb Singapore]: Bithumb%20Singapore.png
+[Bithumb]: Bithumb.png
+[Bitinka]: Bitinka.png
+[Bitkub]: Bitkub.png
+[Bitlist]: Bitlist.png
+[BitMarket]: BitMarket.png
+[BitMart]: BitMart.png
+[BitMax]: BitMax.png
+[BitMEX]: BitMEX.png
+[Bitnaru]: Bitnaru.png
+[Bitonic]: Bitonic.png
+[Bitpanda Pro]: Bitpanda%20Pro.png
+[BitRabbit]: BitRabbit.png
+[Bitrue]: Bitrue.png
+[Bits Blockchain]: Bits%20Blockchain.png
+[Bitsdaq]: Bitsdaq.png
+[BitShares Asset Exchange]: BitShares%20Asset%20Exchange.png
+[Bitso]: Bitso.png
+[Bitsonic]: Bitsonic.png
+[Bitstamp Ripple Gateway]: Bitstamp%20Ripple%20Gateway.png
+[Bitstamp]: Bitstamp.png
+[BITStorage]: BITStorage.png
+[Bittrex]: Bittrex.png
+[Bittylicious]: Bittylicious.png
+[BitUBU]: BitUBU.png
+[Bitvavo]: Bitvavo.png
+[BitZ]: BitZ.png
+[BKEX]: BKEX.png
+[Bleutrade]: Bleutrade.png
+[Braziliex]: Braziliex.png
+[BTC Markets]: BTC%20Markets.png
+[BTC Trade UA]: BTC%20Trade%20UA.png
+[Btc Trade.im]: Btc%20Trade.im.png
+[Btc Turk Pro]: Btc%20Turk%20Pro.png
+[BTC-Alpha]: BTC-Alpha.png
+[BTCBOX]: BTCBOX.png
+[BTCC]: BTCC.png
+[BTC-exchange]: BTC-exchange.png
+[BTSE]: BTSE.png
+[Buda]: Buda.png
+[BW.COM]: BW%20.%20COM.png
+[BX Thailand]: BX%20Thailand.png
+[Bybit]: Bybit.png
+[C2CX]: C2CX.png
+[Cashierest]: Cashierest.png
+[Cat.Ex]: Cat.Ex.png
+[CBX]: CBX.png
+[C-CEX]: C-CEX.png
+[CCXCanada]: CCXCanada.png
+[CEX.IO]: CEX.IO.png
+[ChainX]: ChainX.png
+[CHAOEX]: CHAOEX.png
+[Cobinhood]: Cobinhood.png
+[Coinall]: Coinall.png
+[Coinbase Pro]: Coinbase%20Pro.png
+[Coinbe]: Coinbe.png
+[CoinBene]: CoinBene.png
+[Coinbit]: Coinbit.png
+[Coincheck]: Coincheck.png
+[CoinCorner]: CoinCorner.png
+[Coindeal]: Coindeal.png
+[Coineal]: Coineal.png
+[CoinEgg]: CoinEgg.png
+[CoinEx]: CoinEx.png
+[CoinExchange]: CoinExchange.png
+[CoinFalcon]: CoinFalcon.png
+[CoinField]: CoinField.png
+[Coinfloor]: Coinfloor.png
+[Coingi]: Coingi.png
+[CoinHe]: CoinHe.png
+[Coinhub]: Coinhub.png
+[CoinJar]: CoinJar.png
+[Coinlim]: Coinlim.png
+[CoinMate]: CoinMate.png
+[CoinMetro]: CoinMetro.png
+[CoinMex]: CoinMex.png
+[Coinnest]: Coinnest.png
+[Coinone]: Coinone.png
+[CoinPlace]: CoinPlace.png
+[Coinrate]: Coinrate.png
+[Coinroom]: Coinroom.png
+[CoinsBank]: CoinsBank.png
+[Coinsbit]: Coinsbit.png
+[Coinsuper]: Coinsuper.png
+[CoinTiger]: CoinTiger.png
+[Coinut]: Coinut.png
+[CoinZest]: CoinZest.png
+[Coinzo]: Coinzo.png
+[COSS]: COSS.png
+[C-Patex]: C-Patex.png
+[CPDAX]: CPDAX.png
+[CredoEx]: CredoEx.png
+[Crex24]: Crex24.png
+[CROSS Exchange]: CROSS%20exchange.png
+[CRXzone]: CRXzone.png
+[CryptalDash]: CryptalDash.png
+[CryptoBridge]: CryptoBridge.png
+[Cryptology]: Cryptology.png
+[CryptoMarket]: CryptoMarket.png
+[Cryptomate]: Cryptomate.png
+[Cryptonex]: Cryptonex.png
+[Cryptopia]: Cryptopia.png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
+[]: .png
 []: .png
 []: .png
 []: .png
