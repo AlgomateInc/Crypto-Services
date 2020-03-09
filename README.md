@@ -588,7 +588,7 @@ List of all the exchange being considered to be added to the Algomate Platform
 [PoloniDEX]: PoloniDEX.png
 [Poloniex]: Poloniex.png
 [Polyx]: Polyx.png
-[ProBit Exchange]: ProBit Exchange.png
+[ProBit Exchange]: ProBit%20Exchange.png
 [QuadrigaCX]: QuadrigaCX.png
 [Radar Relay]: Radar%20Relay.png
 [Rfinex]: Rfinex.png
