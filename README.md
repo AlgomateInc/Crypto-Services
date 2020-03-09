@@ -3,7 +3,7 @@ List of all the exchange being considered to be added to the Algomate Platform
 
 | __Logo__ | __Exchange Name__ | __Status__ | __Referral__ | __Algomate Score__ | __Notes__ |
 |-------------|------------|------------|------------|------------|------------|
-  | ![50x]         |  50x  |       |     |      |      |
+| ![50x]         |  50x  |       |     |      |      |
 | ![55]        |  55.com   |     |      |      |      |
 | ![ABCC]        |  ABCC   |     |      |      |      |
 | ![ACX]        |  ACX   |     |      |      |      |
