@@ -624,7 +624,7 @@ List of all the exchange being considered to be added to the Algomate Platform
 [Txbit]: Txbit.png
 [UEX]: UEX.png
 [Upbit]: Upbit.png
-[VCC Exchange]: VCC Exchange.png
+[VCC Exchange]: VCC%20Exchange.png
 [Vebitcoin]: Vebitcoin.png
 [VELIC]: VELIC.png
 [VinDAX]: VinDAX.png
