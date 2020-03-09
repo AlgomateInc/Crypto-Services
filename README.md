@@ -3,7 +3,7 @@ List of all the exchange being considered to be added to the Algomate Platform
 
 | __Logo__ | __Exchange Name__ | __Status__ | __Referral__ | __Algomate Score__ | __Notes__ |
 |-------------|------------|------------|------------|------------|------------|
-| ![50x]         |  50x  |       |     |      |      |
+  | ![50x]         |  50x  |       |     |      |      |
 | ![55]        |  55.com   |     |      |      |      |
 | ![ABCC]        |  ABCC   |     |      |      |      |
 | ![ACX]        |  ACX   |     |      |      |      |
@@ -14,6 +14,313 @@ List of all the exchange being considered to be added to the Algomate Platform
 | ![Altcoin Trader]        |  Altcoin Trader   |     |      |      |      |
 | ![Alterdice]        |  Alterdice   |     |      |      |      |
 | ![Altilly]        |  Altilly   |     |      |      |      |
+| ![Aphelion] | Aphelion |  |  |  |  | 
+| ![Artis Turba] | Artis Turba |  |  |  |  | 
+| ![B2BX] | B2BX |  |  |  |  | 
+| ![Bancor Network] | Bancor Network |  |  |  |  | 
+| ![BaseFEX] | BaseFEX |  |  |  |  | 
+| ![BBX] | BBX |  |  |  |  | 
+| ![BCEX] | BCEX |  |  |  |  | 
+| ![Bcoin] | Bcoin |  |  |  |  | 
+| ![Beaxy] | Beaxy |  |  |  |  | 
+| ![Bgogo] | Bgogo |  |  |  |  | 
+| ![BHEX] | BHEX |  |  |  |  | 
+| ![Bibox] | Bibox |  |  |  |  | 
+| ![BigONE] | BigONE |  |  |  |  | 
+| ![BiKi] | BiKi |  |  |  |  | 
+| ![Bilaxy] | Bilaxy |  |  |  |  | 
+| ![Binance DEX] | Binance DEX |  |  |  |  | 
+| ![Binance Jersey] | Binance Jersey |  |  |  |  | 
+| ![Binance Jex] | Binance Jex |  |  |  |  | 
+| ![Binance Uganda] | Binance Uganda |  |  |  |  | 
+| ![Binance US] | Binance US |  |  |  |  | 
+| ![Binance] | Binance |  |  |  |  | 
+| ![Birake] | Birake |  |  |  |  | 
+| ![Bisq] | Bisq |  |  |  |  | 
+| ![Bit2C] | Bit2C |  |  |  |  | 
+| ![BitAsset] | BitAsset |  |  |  |  | 
+| ![Bitbank] | Bitbank |  |  |  |  | 
+| ![BitBay] | BitBay |  |  |  |  | 
+| ![Bitbns] | Bitbns |  |  |  |  | 
+| ![Bitci] | Bitci |  |  |  |  | 
+| ![Bitcoin.com] | Bitcoin.com |  |  |  |  | 
+| ![Bitcoin Trade] | Bitcoin Trade |  |  |  |  | 
+| ![BitcoinToYou] | BitcoinToYou |  |  |  |  | 
+| ![Bitex.la] | Bitex.la |  |  |  |  | 
+| ![Bitfinex] | Bitfinex |  |  |  |  | 
+| ![bitFlyer] | bitFlyer |  |  |  |  | 
+| ![BitForex] | BitForex |  |  |  |  | 
+| ![Bitfront] | Bitfront |  |  |  |  | 
+| ![Bithesap] | Bithesap |  |  |  |  | 
+| ![Bithumb Global] | Bithumb Global |  |  |  |  | 
+| ![Bithumb Singapore] | Bithumb Singapore |  |  |  |  | 
+| ![Bithumb] | Bithumb |  |  |  |  | 
+| ![Bitinka] | Bitinka |  |  |  |  | 
+| ![Bitkub] | Bitkub |  |  |  |  | 
+| ![Bitlist] | Bitlist |  |  |  |  | 
+| ![BitMarket] | BitMarket |  |  |  |  | 
+| ![BitMart] | BitMart |  |  |  |  | 
+| ![BitMax] | BitMax |  |  |  |  | 
+| ![BitMEX] | BitMEX |  |  |  |  | 
+| ![Bitnaru] | Bitnaru |  |  |  |  | 
+| ![Bitonic] | Bitonic |  |  |  |  | 
+| ![Bitpanda Pro] | Bitpanda Pro |  |  |  |  | 
+| ![BitRabbit] | BitRabbit |  |  |  |  | 
+| ![Bitrue] | Bitrue |  |  |  |  | 
+| ![Bits Blockchain] | Bits Blockchain |  |  |  |  | 
+| ![Bitsdaq] | Bitsdaq |  |  |  |  | 
+| ![BitShares Asset Exchange] | BitShares Asset Exchange |  |  |  |  | 
+| ![Bitso] | Bitso |  |  |  |  | 
+| ![Bitsonic] | Bitsonic |  |  |  |  | 
+| ![Bitstamp Ripple Gateway] | Bitstamp Ripple Gateway |  |  |  |  | 
+| ![Bitstamp] | Bitstamp |  |  |  |  | 
+| ![BITStorage] | BITStorage |  |  |  |  | 
+| ![Bittrex] | Bittrex |  |  |  |  | 
+| ![Bittylicious] | Bittylicious |  |  |  |  | 
+| ![BitUBU] | BitUBU |  |  |  |  | 
+| ![Bitvavo] | Bitvavo |  |  |  |  | 
+| ![BitZ] | BitZ |  |  |  |  | 
+| ![BKEX] | BKEX |  |  |  |  | 
+| ![Bleutrade] | Bleutrade |  |  |  |  | 
+| ![Braziliex] | Braziliex |  |  |  |  | 
+| ![BTC Markets] | BTC Markets |  |  |  |  | 
+| ![BTC Trade UA] | BTC Trade UA |  |  |  |  | 
+| ![Btc Trade.im] | Btc Trade.im |  |  |  |  | 
+| ![Btc Turk Pro] | Btc Turk Pro |  |  |  |  | 
+| ![BTC-Alpha] | BTC-Alpha |  |  |  |  | 
+| ![BTCBOX] | BTCBOX |  |  |  |  | 
+| ![BTCC] | BTCC |  |  |  |  | 
+| ![BTC-exchange] | BTC-exchange |  |  |  |  | 
+| ![BTSE] | BTSE |  |  |  |  | 
+| ![Buda] | Buda |  |  |  |  | 
+| ![BW.COM] | BW.COM |  |  |  |  | 
+| ![BX Thailand] | BX Thailand |  |  |  |  | 
+| ![Bybit] | Bybit |  |  |  |  | 
+| ![C2CX] | C2CX |  |  |  |  | 
+| ![Cashierest] | Cashierest |  |  |  |  | 
+| ![Cat.Ex] | Cat.Ex |  |  |  |  | 
+| ![CBX] | CBX |  |  |  |  | 
+| ![C-CEX] | C-CEX |  |  |  |  | 
+| ![CCXCanada] | CCXCanada |  |  |  |  | 
+| ![CEX.IO] | CEX.IO |  |  |  |  | 
+| ![ChainX] | ChainX |  |  |  |  | 
+| ![CHAOEX] | CHAOEX |  |  |  |  | 
+| ![Cobinhood] | Cobinhood |  |  |  |  | 
+| ![Coinall] | Coinall |  |  |  |  | 
+| ![Coinbase Pro] | Coinbase Pro |  |  |  |  | 
+| ![Coinbe] | Coinbe |  |  |  |  | 
+| ![CoinBene] | CoinBene |  |  |  |  | 
+| ![Coinbit] | Coinbit |  |  |  |  | 
+| ![Coincheck] | Coincheck |  |  |  |  | 
+| ![CoinCorner] | CoinCorner |  |  |  |  | 
+| ![Coindeal] | Coindeal |  |  |  |  | 
+| ![Coineal] | Coineal |  |  |  |  | 
+| ![CoinEgg] | CoinEgg |  |  |  |  | 
+| ![CoinEx] | CoinEx |  |  |  |  | 
+| ![CoinExchange] | CoinExchange |  |  |  |  | 
+| ![CoinFalcon] | CoinFalcon |  |  |  |  | 
+| ![CoinField] | CoinField |  |  |  |  | 
+| ![Coinfloor] | Coinfloor |  |  |  |  | 
+| ![Coingi] | Coingi |  |  |  |  | 
+| ![CoinHe] | CoinHe |  |  |  |  | 
+| ![Coinhub] | Coinhub |  |  |  |  | 
+| ![CoinJar] | CoinJar |  |  |  |  | 
+| ![Coinlim] | Coinlim |  |  |  |  | 
+| ![CoinMate] | CoinMate |  |  |  |  | 
+| ![CoinMetro] | CoinMetro |  |  |  |  | 
+| ![CoinMex] | CoinMex |  |  |  |  | 
+| ![Coinnest] | Coinnest |  |  |  |  | 
+| ![Coinone] | Coinone |  |  |  |  | 
+| ![CoinPlace] | CoinPlace |  |  |  |  | 
+| ![Coinrate] | Coinrate |  |  |  |  | 
+| ![Coinroom] | Coinroom |  |  |  |  | 
+| ![CoinsBank] | CoinsBank |  |  |  |  | 
+| ![Coinsbit] | Coinsbit |  |  |  |  | 
+| ![Coinsuper] | Coinsuper |  |  |  |  | 
+| ![CoinTiger] | CoinTiger |  |  |  |  | 
+| ![Coinut] | Coinut |  |  |  |  | 
+| ![CoinZest] | CoinZest |  |  |  |  | 
+| ![Coinzo] | Coinzo |  |  |  |  | 
+| ![COSS] | COSS |  |  |  |  | 
+| ![C-Patex] | C-Patex |  |  |  |  | 
+| ![CPDAX] | CPDAX |  |  |  |  | 
+| ![CredoEx] | CredoEx |  |  |  |  | 
+| ![Crex24] | Crex24 |  |  |  |  | 
+| ![CROSS Exchange] | CROSS Exchange |  |  |  |  | 
+| ![CRXzone] | CRXzone |  |  |  |  | 
+| ![CryptalDash] | CryptalDash |  |  |  |  | 
+| ![CryptoBridge] | CryptoBridge |  |  |  |  | 
+| ![Cryptology] | Cryptology |  |  |  |  | 
+| ![CryptoMarket] | CryptoMarket |  |  |  |  | 
+| ![Cryptomate] | Cryptomate |  |  |  |  | 
+| ![Cryptonex] | Cryptonex |  |  |  |  | 
+| ![Cryptopia] | Cryptopia |  |  |  |  | 
+| ![Currency.com] | Currency.com |  |  |  |  | 
+| ![Darb Finance] | Darb Finance |  |  |  |  | 
+| ![Dcoin] | Dcoin |  |  |  |  | 
+| ![DDEX] | DDEX |  |  |  |  | 
+| ![Deribit] | Deribit |  |  |  |  | 
+| ![DEx.top] | DEx.top |  |  |  |  | 
+| ![Dex-Trade] | Dex-Trade |  |  |  |  | 
+| ![DigiFinex] | DigiFinex |  |  |  |  | 
+| ![DOBI Exchange] | DOBI Exchange |  |  |  |  | 
+| ![DragonEX] | DragonEX |  |  |  |  | 
+| ![DSX] | DSX |  |  |  |  | 
+| ![dYdX] | dYdX |  |  |  |  | 
+| ![Ecxx] | Ecxx |  |  |  |  | 
+| ![EMX] | EMX |  |  |  |  | 
+| ![Escodex] | Escodex |  |  |  |  | 
+| ![EtherDelta] | EtherDelta |  |  |  |  | 
+| ![EtherFlyer] | EtherFlyer |  |  |  |  | 
+| ![Ethfinex] | Ethfinex |  |  |  |  | 
+| ![ExMarkets] | ExMarkets |  |  |  |  | 
+| ![Exmo] | Exmo |  |  |  |  | 
+| ![Exrates] | Exrates |  |  |  |  | 
+| ![ExtStock] | ExtStock |  |  |  |  | 
+| ![EXX] | EXX |  |  |  |  | 
+| ![ezBtc] | ezBtc |  |  |  |  | 
+| ![Fatbtc] | Fatbtc |  |  |  |  | 
+| ![FEX] | FEX |  |  |  |  | 
+| ![Finexbox] | Finexbox |  |  |  |  | 
+| ![Fisco] | Fisco |  |  |  |  | 
+| ![Folgory] | Folgory |  |  |  |  | 
+| ![FreiExchange] | FreiExchange |  |  |  |  | 
+| ![FTX] | FTX |  |  |  |  | 
+| ![Gate.io] | Gate.io |  |  |  |  | 
+| ![Gatecoin] | Gatecoin |  |  |  |  | 
+| ![Gatehub] | Gatehub |  |  |  |  | 
+| ![GBX Digital Asset Exchange] | GBX Digital Asset Exchange |  |  |  |  | 
+| ![GDAC] | GDAC |  |  |  |  | 
+| ![Gemini] | Gemini |  |  |  |  | 
+| ![Globitex] | Globitex |  |  |  |  | 
+| ![GOPAX] | GOPAX |  |  |  |  | 
+| ![Graviex] | Graviex |  |  |  |  | 
+| ![Gulden Trader] | Gulden Trader |  |  |  |  | 
+| ![HaloDeX] | HaloDeX |  |  |  |  | 
+| ![Hanbitco] | Hanbitco |  |  |  |  | 
+| ![HCoin] | HCoin |  |  |  |  | 
+| ![Heat Wallet] | Heat Wallet |  |  |  |  | 
+| ![HitBTC] | HitBTC |  |  |  |  | 
+| ![Hoo] | Hoo |  |  |  |  | 
+| ![Hotbit] | Hotbit |  |  |  |  | 
+| ![Hubi] | Hubi |  |  |  |  | 
+| ![Huobi Global] | Huobi Global |  |  |  |  | 
+| ![Huobi Indonesia] | Huobi Indonesia |  |  |  |  | 
+| ![Huobi Russia] | Huobi Russia |  |  |  |  | 
+| ![IDAX] | IDAX |  |  |  |  | 
+| ![IDCM] | IDCM |  |  |  |  | 
+| ![IDEX] | IDEX |  |  |  |  | 
+| ![Independent Reserve] | Independent Reserve |  |  |  |  | 
+| ![Indodax] | Indodax |  |  |  |  | 
+| ![IndoEx] | IndoEx |  |  |  |  | 
+| ![InfinityCoin Exchange] | InfinityCoin Exchange |  |  |  |  | 
+| ![Iquant] | Iquant |  |  |  |  | 
+| ![ISX] | ISX |  |  |  |  | 
+| ![itBit] | itBit |  |  |  |  | 
+| ![Koineks] | Koineks |  |  |  |  | 
+| ![Koinex] | Koinex |  |  |  |  | 
+| ![Koinim] | Koinim |  |  |  |  | 
+| ![Korbit] | Korbit |  |  |  |  | 
+| ![Kraken] | Kraken |  |  |  |  | 
+| ![Kryptono] | Kryptono |  |  |  |  | 
+| ![KuCoin] | KuCoin |  |  |  |  | 
+| ![Kuna] | Kuna |  |  |  |  | 
+| ![Kyber Network] | Kyber Network |  |  |  |  | 
+| ![LakeBTC] | LakeBTC |  |  |  |  | 
+| ![LATOKEN] | LATOKEN |  |  |  |  | 
+| ![LBank] | LBank |  |  |  |  | 
+| ![Liqui] | Liqui |  |  |  |  | 
+| ![Liquid] | Liquid |  |  |  |  | 
+| ![LiteBit.eu] | LiteBit.eu |  |  |  |  | 
+| ![LocalCoin DEX] | LocalCoin DEX |  |  |  |  | 
+| ![LocalTrade] | LocalTrade |  |  |  |  | 
+| ![Luno] | Luno |  |  |  |  | 
+| ![Lykke Exchange] | Lykke Exchange |  |  |  |  | 
+| ![MBAex] | MBAex |  |  |  |  | 
+| ![Mercado Bitcoin] | Mercado Bitcoin |  |  |  |  | 
+| ![Mercatox] | Mercatox |  |  |  |  | 
+| ![MXC] | MXC |  |  |  |  | 
+| ![NAGAX] | NAGAX |  |  |  |  | 
+| ![Namebase] | Namebase |  |  |  |  | 
+| ![Nanex] | Nanex |  |  |  |  | 
+| ![Negocie Coins] | Negocie Coins |  |  |  |  | 
+| ![Neraex] | Neraex |  |  |  |  | 
+| ![Nocks] | Nocks |  |  |  |  | 
+| ![NovaDAX] | NovaDAX |  |  |  |  | 
+| ![Novaexchange] | Novaexchange |  |  |  |  | 
+| ![OasisDEX] | OasisDEX |  |  |  |  | 
+| ![OceanEx] | OceanEx |  |  |  |  | 
+| ![OEX] | OEX |  |  |  |  | 
+| ![OKCoin] | OKCoin |  |  |  |  | 
+| ![OKEx Korea] | OKEx Korea |  |  |  |  | 
+| ![OKEx] | OKEx |  |  |  |  | 
+| ![Omgfin] | Omgfin |  |  |  |  | 
+| ![OOOBTC] | OOOBTC |  |  |  |  | 
+| ![OpenLedger DEX] | OpenLedger DEX |  |  |  |  | 
+| ![OTCBTC] | OTCBTC |  |  |  |  | 
+| ![OVEX] | OVEX |  |  |  |  | 
+| ![Ovis] | Ovis |  |  |  |  | 
+| ![P2PB2B] | P2PB2B |  |  |  |  | 
+| ![Paribu] | Paribu |  |  |  |  | 
+| ![Paritex] | Paritex |  |  |  |  | 
+| ![PayBito] | PayBito |  |  |  |  | 
+| ![Paymium] | Paymium |  |  |  |  | 
+| ![PoloniDEX] | PoloniDEX |  |  |  |  | 
+| ![Poloniex] | Poloniex |  |  |  |  | 
+| ![Polyx] | Polyx |  |  |  |  | 
+| ![ProBit Exchange] | ProBit Exchange |  |  |  |  | 
+| ![QuadrigaCX] | QuadrigaCX |  |  |  |  | 
+| ![Radar Relay] | Radar Relay |  |  |  |  | 
+| ![Rfinex] | Rfinex |  |  |  |  | 
+| ![RightBTC] | RightBTC |  |  |  |  | 
+| ![Ripple China] | Ripple China |  |  |  |  | 
+| ![RippleFox] | RippleFox |  |  |  |  | 
+| ![RuDEX] | RuDEX |  |  |  |  | 
+| ![Satang Pro] | Satang Pro |  |  |  |  | 
+| ![Sato Exchange] | Sato Exchange |  |  |  |  | 
+| ![Shortex] | Shortex |  |  |  |  | 
+| ![Simex] | Simex |  |  |  |  | 
+| ![Sistemkoin] | Sistemkoin |  |  |  |  | 
+| ![SouthXchange] | SouthXchange |  |  |  |  | 
+| ![Stellarport] | Stellarport |  |  |  |  | 
+| ![Stellarterm] | Stellarterm |  |  |  |  | 
+| ![STEX] | STEX |  |  |  |  | 
+| ![StormGain] | StormGain |  |  |  |  | 
+| ![Switcheo Network] | Switcheo Network |  |  |  |  | 
+| ![TAGZ] | TAGZ |  |  |  |  | 
+| ![The Rock Trading] | The Rock Trading |  |  |  |  | 
+| ![Tidebit] | Tidebit |  |  |  |  | 
+| ![Tidex] | Tidex |  |  |  |  | 
+| ![token.store] | token.store |  |  |  |  | 
+| ![Tokenomy] | Tokenomy |  |  |  |  | 
+| ![Tokens.net] | Tokens.net |  |  |  |  | 
+| ![TOKOK] | TOKOK |  |  |  |  | 
+| ![TOPBTC] | TOPBTC |  |  |  |  | 
+| ![Trade By Trade] | Trade By Trade |  |  |  |  | 
+| ![Trade.io] | Trade.io |  |  |  |  | 
+| ![TradeOgre] | TradeOgre |  |  |  |  | 
+| ![Triv Pro] | Triv Pro |  |  |  |  | 
+| ![Tux Exchange] | Tux Exchange |  |  |  |  | 
+| ![Txbit] | Txbit |  |  |  |  | 
+| ![UEX] | UEX |  |  |  |  | 
+| ![Upbit] | Upbit |  |  |  |  | 
+| ![VCC Exchange] | VCC Exchange |  |  |  |  | 
+| ![Vebitcoin] | Vebitcoin |  |  |  |  | 
+| ![VELIC] | VELIC |  |  |  |  | 
+| ![VinDAX] | VinDAX |  |  |  |  | 
+| ![VINEX Network] | VINEX Network |  |  |  |  | 
+| ![ViteX] | ViteX |  |  |  |  | 
+| ![Waves Exchange] | Waves Exchange |  |  |  |  | 
+| ![WazirX] | WazirX |  |  |  |  | 
+| ![WhiteBIT] | WhiteBIT |  |  |  |  | 
+| ![Xena Exchange] | Xena Exchange |  |  |  |  | 
+| ![xFutures] | xFutures |  |  |  |  | 
+| ![Yobit] | Yobit |  |  |  |  | 
+| ![YunEx] | YunEx |  |  |  |  | 
+| ![Zaif] | Zaif |  |  |  |  | 
+| ![ZB.COM] | ZB.COM |  |  |  |  | 
+| ![ZBG] | ZBG |  |  |  |  | 
+| ![Zebpay] | Zebpay |  |  |  |  | 
 
 
 [50x]: 50x.png
@@ -225,161 +532,112 @@ List of all the exchange being considered to be added to the Algomate Platform
 [IDEX]: IDEX.png
 [Independent Reserve]: Independent%20Reserve.png
 [Indodax]: Indodax.png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
-[]: .png
+[IndoEx]: IndoEx.png
+[InfinityCoin Exchange]: InfinityCoin%20Exchange.png
+[Iquant]: Iquant.png
+[ISX]: ISX.png
+[itBit]: itBit.png
+[Koineks]: Koineks.png
+[Koinex]: Koinex.png
+[Koinim]: Koinim.png
+[Korbit]: Korbit.png
+[Kraken]: Kraken.png
+[Kryptono]: Kryptono.png
+[KuCoin]: KuCoin.png
+[Kuna]: Kuna.png
+[Kyber Network]: Kyber%20Network.png
+[LakeBTC]: LakeBTC.png
+[LATOKEN]: LATOKEN.png
+[LBank]: LBank.png
+[Liqui]: Liqui.png
+[Liquid]: Liquid.png
+[LiteBit.eu]: LiteBit.eu.png
+[LocalCoin DEX]: LocalCoin%20DEX.png
+[LocalTrade]: LocalTrade.png
+[Luno]: Luno.png
+[Lykke Exchange]: Lykke%20Exchange.png
+[MBAex]: MBAex.png
+[Mercado Bitcoin]: Mercado%20Bitcoin.png
+[Mercatox]: Mercatox.png
+[MXC]: MXC.png
+[NAGAX]: NAGAX.png
+[Namebase]: Namebase.png
+[Nanex]: Nanex.png
+[Negocie Coins]: Negocie%20Coins.png
+[Neraex]: Neraex.png
+[Nocks]: Nocks.png
+[NovaDAX]: NovaDAX.png
+[Novaexchange]: Novaexchange.png
+[OasisDEX]: OasisDEX.png
+[OceanEx]: OceanEx.png
+[OEX]: OEX.png
+[OKCoin]: OKCoin.png
+[OKEx Korea]: OKEx%20Korea.png
+[OKEx]: OKEx.png
+[Omgfin]: Omgfin.png
+[OOOBTC]: OOOBTC.png
+[OpenLedger DEX]: OpenLedger%20DEX.png
+[OTCBTC]: OTCBTC.png
+[OVEX]: OVEX.png
+[Ovis]: Ovis.png
+[P2PB2B]: P2PB2B.png
+[Paribu]: Paribu.png
+[Paritex]: Paritex.png
+[PayBito]: PayBito.png
+[Paymium]: Paymium.png
+[PoloniDEX]: PoloniDEX.png
+[Poloniex]: Poloniex.png
+[Polyx]: Polyx.png
+[ProBit Exchange]: ProBit Exchange.png
+[QuadrigaCX]: QuadrigaCX.png
+[Radar Relay]: Radar%20Relay.png
+[Rfinex]: Rfinex.png
+[RightBTC]: RightBTC.png
+[Ripple China]: Ripple%20China.png
+[RippleFox]: RippleFox.png
+[RuDEX]: RuDEX.png
+[Satang Pro]: Satang%20Pro.png
+[Sato Exchange]: SatoExchange.png
+[Shortex]: Shortex.png
+[Simex]: Simex.png
+[Sistemkoin]: Sistemkoin.png
+[SouthXchange]: SouthXchange.png
+[Stellarport]: Stellarport.png
+[Stellarterm]: Stellarterm.png
+[STEX]: STEX.png
+[StormGain]: StormGain.png
+[Switcheo Network]: Switcheo%20Network.png
+[TAGZ]: TAGZ.png
+[The Rock Trading]: The%20Rock%20Trading.png
+[Tidebit]: Tidebit.png
+[Tidex]: Tidex.png
+[token.store]: token.store.png
+[Tokenomy]: Tokenomy.png
+[Tokens.net]: Tokens.net.png
+[TOKOK]: TOKOK.png
+[TOPBTC]: TOPBTC.png
+[Trade By Trade]: Trade%20By%20Trade.png
+[Trade.io]: Trade.io.png
+[TradeOgre]: TradeOgre.png
+[Triv Pro]: Triv%20Pro.png
+[Tux Exchange]: Tux%20Exchange.png
+[Txbit]: Txbit.png
+[UEX]: UEX.png
+[Upbit]: Upbit.png
+[VCC Exchange]: VCC Exchange.png
+[Vebitcoin]: Vebitcoin.png
+[VELIC]: VELIC.png
+[VinDAX]: VinDAX.png
+[VINEX Network]: VINEX%20Network.png
+[ViteX]: ViteX.png
+[Waves Exchange]: Waves%20Exchange.png
+[WazirX]: WazirX.png
+[WhiteBIT]: WhiteBIT.png
+[Xena Exchange]: Xena%20Exchange.png
+[xFutures]: xFutures.png
+[Yobit]: Yobit.png
+[YunEx]: YunEx.png
+[Zaif]: Zaif.png
+[ZB.COM]: ZB%20.%20COM.png
+[ZBG]: ZBG.png
+[Zebpay]: Zebpay.png
