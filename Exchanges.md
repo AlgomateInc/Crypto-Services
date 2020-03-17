@@ -3,8 +3,8 @@ List of all the exchange being considered to be added to the Algomate Platform
 
 | __Logo__ | __Exchange Name__ | __Status__ | __Referral__ | __Algomate Score__ | __Notes__ |
 |-------------|------------|------------|------------|------------|------------|
-| ![50x]         |  50x  |       |   [Click Here](https://go.50x.com/signup/111291)  |      |      |
-| ![55]        |  55.com   |     |      |      |      |
+| ![50x]         |  50x  |   Active    |   [Click Here](https://go.50x.com/signup/111291)  |      |      |
+| ![55]        |  55.com   |  Inactive   |      |      |      |
 | ![ABCC]        |  ABCC   |     |      |      |      |
 | ![ACX]        |  ACX   |     |      |      |      |
 | ![AidosMarket] |  Aidos Market   |     |      |      |      |
