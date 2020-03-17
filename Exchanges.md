@@ -1,161 +1,161 @@
 # Exchanges
 List of all the exchange being considered to be added to the Algomate Platform
 
-| __Logo__ | __Exchange Name__ | __Status__ | __Referral__ | __Algomate Score__ | __Notes__ |
-|-------------|------------|------------|------------|------------|------------|
+| __Logo__ | __Exchange Name__ | __Status__ | __Referral__ | __Algomate Score__ | __Notes__ | __Link__ |
+|-------------|------------|------------|------------|------------|------------|------------|
 | ![50x]         |  50x  |   Active    |   [Click Here](https://go.50x.com/signup/111291)  |      |      |
-| ![55]        |  55.com   |  Inactive   |      |      |      |
-| ![ABCC]        |  ABCC   |     |      |      |      |
-| ![ACX]        |  ACX   |     |      |      |      |
-| ![AidosMarket] |  Aidos Market   |     |      |      |      |
-| ![Airswap]        |  AirSwap   |     |      |      |      |
-| ![Allbit]        |  Allbit   |     |      |      |      |
-| ![Allcoin]        |  Allcoin   |     |      |      |      |
-| ![Altcoin Trader]        |  Altcoin Trader   |     |      |      |      |
-| ![Alterdice]        |  Alterdice   |     |      |      |      |
-| ![Altilly]        |  Altilly   |     |      |      |      |
-| ![Aphelion] | Aphelion |  |  |  |  | 
-| ![Artis Turba] | Artis Turba |  |  |  |  | 
-| ![B2BX] | B2BX |  |  |  |  | 
-| ![Bancor Network] | Bancor Network |  |  |  |  | 
-| ![BaseFEX] | BaseFEX |  |  |  |  | 
-| ![BBX] | BBX |  |  |  |  | 
-| ![BCEX] | BCEX |  |  |  |  | 
-| ![Bcoin] | Bcoin |  |  |  |  | 
-| ![Beaxy] | Beaxy |  |  |  |  | 
-| ![Bgogo] | Bgogo |  |  |  |  | 
-| ![BHEX] | BHEX |  |  |  |  | 
-| ![Bibox] | Bibox |  |  |  |  | 
-| ![BigONE] | BigONE |  |  |  |  | 
-| ![BiKi] | BiKi |  |  |  |  | 
-| ![Bilaxy] | Bilaxy |  |  |  |  | 
-| ![Binance DEX] | Binance DEX |  |  |  |  | 
-| ![Binance Jersey] | Binance Jersey |  |  |  |  | 
-| ![Binance Jex] | Binance Jex |  |  |  |  | 
-| ![Binance Uganda] | Binance Uganda |  |  |  |  | 
-| ![Binance US] | Binance US |  |  |  |  | 
-| ![Binance] | Binance |  |  |  |  | 
-| ![Birake] | Birake |  |  |  |  | 
-| ![Bisq] | Bisq |  |  |  |  | 
-| ![Bit2C] | Bit2C |  |  |  |  | 
-| ![BitAsset] | BitAsset |  |  |  |  | 
-| ![Bitbank] | Bitbank |  |  |  |  | 
-| ![BitBay] | BitBay |  |  |  |  | 
-| ![Bitbns] | Bitbns |  |  |  |  | 
-| ![Bitci] | Bitci |  |  |  |  | 
-| ![Bitcoin.com] | Bitcoin.com |  |  |  |  | 
-| ![Bitcoin Trade] | Bitcoin Trade |  |  |  |  | 
-| ![BitcoinToYou] | BitcoinToYou |  |  |  |  | 
-| ![Bitex.la] | Bitex.la |  |  |  |  | 
-| ![Bitfinex] | Bitfinex |  |  |  |  | 
-| ![bitFlyer] | bitFlyer |  |  |  |  | 
-| ![BitForex] | BitForex |  |  |  |  | 
-| ![Bitfront] | Bitfront |  |  |  |  | 
-| ![Bithesap] | Bithesap |  |  |  |  | 
-| ![Bithumb Global] | Bithumb Global |  |  |  |  | 
-| ![Bithumb Singapore] | Bithumb Singapore |  |  |  |  | 
-| ![Bithumb] | Bithumb |  |  |  |  | 
-| ![Bitinka] | Bitinka |  |  |  |  | 
-| ![Bitkub] | Bitkub |  |  |  |  | 
-| ![Bitlist] | Bitlist |  |  |  |  | 
-| ![BitMarket] | BitMarket |  |  |  |  | 
-| ![BitMart] | BitMart |  |  |  |  | 
-| ![BitMax] | BitMax |  |  |  |  | 
-| ![BitMEX] | BitMEX |  |  |  |  | 
-| ![Bitnaru] | Bitnaru |  |  |  |  | 
-| ![Bitonic] | Bitonic |  |  |  |  | 
-| ![Bitpanda Pro] | Bitpanda Pro |  |  |  |  | 
-| ![BitRabbit] | BitRabbit |  |  |  |  | 
-| ![Bitrue] | Bitrue |  |  |  |  | 
-| ![Bits Blockchain] | Bits Blockchain |  |  |  |  | 
-| ![Bitsdaq] | Bitsdaq |  |  |  |  | 
-| ![BitShares Asset Exchange] | BitShares Asset Exchange |  |  |  |  | 
-| ![Bitso] | Bitso |  |  |  |  | 
-| ![Bitsonic] | Bitsonic |  |  |  |  | 
-| ![Bitstamp Ripple Gateway] | Bitstamp Ripple Gateway |  |  |  |  | 
-| ![Bitstamp] | Bitstamp |  |  |  |  | 
-| ![BITStorage] | BITStorage |  |  |  |  | 
-| ![Bittrex] | Bittrex |  |  |  |  | 
-| ![Bittylicious] | Bittylicious |  |  |  |  | 
-| ![BitUBU] | BitUBU |  |  |  |  | 
-| ![Bitvavo] | Bitvavo |  |  |  |  | 
-| ![BitZ] | BitZ |  |  |  |  | 
-| ![BKEX] | BKEX |  |  |  |  | 
-| ![Bleutrade] | Bleutrade |  |  |  |  | 
-| ![Braziliex] | Braziliex |  |  |  |  | 
-| ![BTC Markets] | BTC Markets |  |  |  |  | 
-| ![BTC Trade UA] | BTC Trade UA |  |  |  |  | 
-| ![Btc Trade.im] | Btc Trade.im |  |  |  |  | 
-| ![Btc Turk Pro] | Btc Turk Pro |  |  |  |  | 
-| ![BTC-Alpha] | BTC-Alpha |  |  |  |  | 
-| ![BTCBOX] | BTCBOX |  |  |  |  | 
-| ![BTCC] | BTCC |  |  |  |  | 
-| ![BTC-exchange] | BTC-exchange |  |  |  |  | 
-| ![BTSE] | BTSE |  |  |  |  | 
-| ![Buda] | Buda |  |  |  |  | 
-| ![BW.COM] | BW.COM |  |  |  |  | 
-| ![BX Thailand] | BX Thailand |  |  |  |  | 
-| ![Bybit] | Bybit |  |  |  |  | 
-| ![C2CX] | C2CX |  |  |  |  | 
-| ![Cashierest] | Cashierest |  |  |  |  | 
-| ![Cat.Ex] | Cat.Ex |  |  |  |  | 
-| ![CBX] | CBX |  |  |  |  | 
-| ![C-CEX] | C-CEX |  |  |  |  | 
-| ![CCXCanada] | CCXCanada |  |  |  |  | 
-| ![CEX.IO] | CEX.IO |  |  |  |  | 
-| ![ChainX] | ChainX |  |  |  |  | 
-| ![CHAOEX] | CHAOEX |  |  |  |  | 
-| ![Cobinhood] | Cobinhood |  |  |  |  | 
-| ![Coinall] | Coinall |  |  |  |  | 
-| ![Coinbase Pro] | Coinbase Pro |  |  |  |  | 
-| ![Coinbe] | Coinbe |  |  |  |  | 
-| ![CoinBene] | CoinBene |  |  |  |  | 
-| ![Coinbit] | Coinbit |  |  |  |  | 
-| ![Coincheck] | Coincheck |  |  |  |  | 
-| ![CoinCorner] | CoinCorner |  |  |  |  | 
-| ![Coindeal] | Coindeal |  |  |  |  | 
-| ![Coineal] | Coineal |  |  |  |  | 
-| ![CoinEgg] | CoinEgg |  |  |  |  | 
-| ![CoinEx] | CoinEx |  |  |  |  | 
-| ![CoinExchange] | CoinExchange |  |  |  |  | 
-| ![CoinFalcon] | CoinFalcon |  |  |  |  | 
-| ![CoinField] | CoinField |  |  |  |  | 
-| ![Coinfloor] | Coinfloor |  |  |  |  | 
-| ![Coingi] | Coingi |  |  |  |  | 
-| ![CoinHe] | CoinHe |  |  |  |  | 
-| ![Coinhub] | Coinhub |  |  |  |  | 
-| ![CoinJar] | CoinJar |  |  |  |  | 
-| ![Coinlim] | Coinlim |  |  |  |  | 
-| ![CoinMate] | CoinMate |  |  |  |  | 
-| ![CoinMetro] | CoinMetro |  |  |  |  | 
-| ![CoinMex] | CoinMex |  |  |  |  | 
-| ![Coinnest] | Coinnest |  |  |  |  | 
-| ![Coinone] | Coinone |  |  |  |  | 
-| ![CoinPlace] | CoinPlace |  |  |  |  | 
-| ![Coinrate] | Coinrate |  |  |  |  | 
-| ![Coinroom] | Coinroom |  |  |  |  | 
-| ![CoinsBank] | CoinsBank |  |  |  |  | 
-| ![Coinsbit] | Coinsbit |  |  |  |  | 
-| ![Coinsuper] | Coinsuper |  |  |  |  | 
-| ![CoinTiger] | CoinTiger |  |  |  |  | 
-| ![Coinut] | Coinut |  |  |  |  | 
-| ![CoinZest] | CoinZest |  |  |  |  | 
-| ![Coinzo] | Coinzo |  |  |  |  | 
-| ![COSS] | COSS |  |  |  |  | 
-| ![C-Patex] | C-Patex |  |  |  |  | 
-| ![CPDAX] | CPDAX |  |  |  |  | 
-| ![CredoEx] | CredoEx |  |  |  |  | 
-| ![Crex24] | Crex24 |  |  |  |  | 
-| ![CROSS Exchange] | CROSS Exchange |  |  |  |  | 
-| ![CRXzone] | CRXzone |  |  |  |  | 
-| ![CryptalDash] | CryptalDash |  |  |  |  | 
-| ![CryptoBridge] | CryptoBridge |  |  |  |  | 
-| ![Cryptology] | Cryptology |  |  |  |  | 
-| ![CryptoMarket] | CryptoMarket |  |  |  |  | 
-| ![Cryptomate] | Cryptomate |  |  |  |  | 
-| ![Cryptonex] | Cryptonex |  |  |  |  | 
-| ![Cryptopia] | Cryptopia |  |  |  |  | 
-| ![Currency.com] | Currency.com |  |  |  |  | 
+| ![55]        |  55.com   |  Inactive   |      |      |      |      |
+| ![ABCC]        |  ABCC   |     |      |      |      |      |
+| ![ACX]        |  ACX   |     |      |      |      |      |
+| ![AidosMarket] |  Aidos Market   |     |      |      |      |      |
+| ![Airswap]        |  AirSwap   |     |      |      |      |      |
+| ![Allbit]        |  Allbit   |     |      |      |      |      |
+| ![Allcoin]        |  Allcoin   |     |      |      |      |      |
+| ![Altcoin Trader]        |  Altcoin Trader   |     |      |      |      |      |
+| ![Alterdice]        |  Alterdice   |     |      |      |      |      |
+| ![Altilly]        |  Altilly   |     |      |      |      |      |
+| ![Aphelion] | Aphelion |  |  |  |  |       |
+| ![Artis Turba] | Artis Turba |  |  |  |  |       |
+| ![B2BX] | B2BX |  |  |  |  |       |
+| ![Bancor Network] | Bancor Network |  |  |  |  |       |
+| ![BaseFEX] | BaseFEX |  |  |  |  |       |
+| ![BBX] | BBX |  |  |  |  |       |
+| ![BCEX] | BCEX |  |  |  |  |       |
+| ![Bcoin] | Bcoin |  |  |  |  |       |
+| ![Beaxy] | Beaxy |  |  |  |  |       |
+| ![Bgogo] | Bgogo |  |  |  |  |       |
+| ![BHEX] | BHEX |  |  |  |  |       |
+| ![Bibox] | Bibox |  |  |  |  |       |
+| ![BigONE] | BigONE |  |  |  |  |       |
+| ![BiKi] | BiKi |  |  |  |  |       |
+| ![Bilaxy] | Bilaxy |  |  |  |  |       |
+| ![Binance DEX] | Binance DEX |  |  |  |       | | 
+| ![Binance Jersey] | Binance Jersey |  |  |  |        || 
+| ![Binance Jex] | Binance Jex |  |  |  |  |       |
+| ![Binance Uganda] | Binance Uganda |  |  |  |  |       |
+| ![Binance US] | Binance US |  |  |  |  |       |
+| ![Binance] | Binance |  |  |  |  |       |
+| ![Birake] | Birake |  |  |  |  |       |
+| ![Bisq] | Bisq |  |  |  |  |       |
+| ![Bit2C] | Bit2C |  |  |  |  |       |
+| ![BitAsset] | BitAsset |  |  |  |  |       |
+| ![Bitbank] | Bitbank |  |  |  |  |       |
+| ![BitBay] | BitBay |  |  |  |  |       |
+| ![Bitbns] | Bitbns |  |  |  |  |       |
+| ![Bitci] | Bitci |  |  |  |  |       |
+| ![Bitcoin.com] | Bitcoin.com |  |  |        ||  | 
+| ![Bitcoin Trade] | Bitcoin Trade |  |  |  |        || 
+| ![BitcoinToYou] | BitcoinToYou |  |  |  |  |       |
+| ![Bitex.la] | Bitex.la |  |  |  |  |       |
+| ![Bitfinex] | Bitfinex |  |  |  |  |       |
+| ![bitFlyer] | bitFlyer |  |  |  |  |       |
+| ![BitForex] | BitForex |  |  |  |  |       |
+| ![Bitfront] | Bitfront |  |  |  |  |       |
+| ![Bithesap] | Bithesap |  |  |  |  |       |
+| ![Bithumb Global] | Bithumb Global |  |  |        ||  | 
+| ![Bithumb Singapore] | Bithumb Singapore |  |  |  |      |  | 
+| ![Bithumb] | Bithumb |  |  |  |  |       |
+| ![Bitinka] | Bitinka |  |  |  |  |       |
+| ![Bitkub] | Bitkub |  |  |  |  |       |
+| ![Bitlist] | Bitlist |  |  |  |  |       |
+| ![BitMarket] | BitMarket |  |  |  |  |       |
+| ![BitMart] | BitMart |  |  |  |  |       |
+| ![BitMax] | BitMax |  |  |  |  |       |
+| ![BitMEX] | BitMEX |  |  |  |  |       |
+| ![Bitnaru] | Bitnaru |  |  |  |  |       |
+| ![Bitonic] | Bitonic |  |  |  |  |       |
+| ![Bitpanda Pro] | Bitpanda Pro |  |  |  |       | | 
+| ![BitRabbit] | BitRabbit |  |  |  |  |       |
+| ![Bitrue] | Bitrue |  |  |  |  |       |
+| ![Bits Blockchain] | Bits Blockchain |        ||  |  |  | 
+| ![Bitsdaq] | Bitsdaq |  |  |  |  |       |
+| ![BitShares Asset Exchange] | BitShares Asset Exchange |       | |  |  |  | 
+| ![Bitso] | Bitso |  |  |  |  |       |
+| ![Bitsonic] | Bitsonic |  |  |  |  |       |
+| ![Bitstamp Ripple Gateway] | Bitstamp Ripple Gateway |  |      |  |  |  | 
+| ![Bitstamp] | Bitstamp |  |  |  |  |       |
+| ![BITStorage] | BITStorage |  |  |  |  |       |
+| ![Bittrex] | Bittrex |  |  |  |  |       |
+| ![Bittylicious] | Bittylicious |  |  |  |       | | 
+| ![BitUBU] | BitUBU |  |  |  |  |       |
+| ![Bitvavo] | Bitvavo |  |  |  |  |       |
+| ![BitZ] | BitZ |  |  |  |  |       |
+| ![BKEX] | BKEX |  |  |  |  |       |
+| ![Bleutrade] | Bleutrade |  |  |  |       | | 
+| ![Braziliex] | Braziliex |  |  |  |  |       |
+| ![BTC Markets] | BTC Markets |  |  |  |  |       |
+| ![BTC Trade UA] | BTC Trade UA |  |  |  |  |       |
+| ![Btc Trade.im] | Btc Trade.im |  |  |  |  |       |
+| ![Btc Turk Pro] | Btc Turk Pro |  |  |  |  |       |
+| ![BTC-Alpha] | BTC-Alpha |  |  |  |  |       |
+| ![BTCBOX] | BTCBOX |  |  |  |  |       |
+| ![BTCC] | BTCC |  |  |  |  |       |
+| ![BTC-exchange] | BTC-exchange |  |       | |  |  | 
+| ![BTSE] | BTSE |  |  |  |  |       |
+| ![Buda] | Buda |  |  |  |  |       |
+| ![BW.COM] | BW.COM |  |  |  |  |       |
+| ![BX Thailand] | BX Thailand |  |  |  |       | | 
+| ![Bybit] | Bybit |  |  |  |  |       |
+| ![C2CX] | C2CX |  |  |  |  |       |
+| ![Cashierest] | Cashierest |  |  |        ||  | 
+| ![Cat.Ex] | Cat.Ex |  |  |  |  |       |
+| ![CBX] | CBX |  |  |  |  |       |
+| ![C-CEX] | C-CEX |  |  |  |  |       |
+| ![CCXCanada] | CCXCanada |  |  |  |  |      | 
+| ![CEX.IO] | CEX.IO |  |  |  |  |       |
+| ![ChainX] | ChainX |  |  |  |  |       |
+| ![CHAOEX] | CHAOEX |  |  |  |  |       |
+| ![Cobinhood] | Cobinhood |  |  |  |  |       |
+| ![Coinall] | Coinall |  |  |  |  |       |
+| ![Coinbase Pro] | Coinbase Pro |  |  |  |       | | 
+| ![Coinbe] | Coinbe |  |  |  |  |       |
+| ![CoinBene] | CoinBene |  |  |  |  |       |
+| ![Coinbit] | Coinbit |  |  |  |  |       |
+| ![Coincheck] | Coincheck |  |  |  |  |       |
+| ![CoinCorner] | CoinCorner |  |  |  |  |       |
+| ![Coindeal] | Coindeal |  |  |  |  |       |
+| ![Coineal] | Coineal |  |  |  |  |       |
+| ![CoinEgg] | CoinEgg |  |  |  |  |       |
+| ![CoinEx] | CoinEx |  |  |  |  |       |
+| ![CoinExchange] | CoinExchange |  |  |        ||  | 
+| ![CoinFalcon] | CoinFalcon |  |  |  |  |       |
+| ![CoinField] | CoinField |  |  |  |  |       |
+| ![Coinfloor] | Coinfloor |  |  |  |  |       |
+| ![Coingi] | Coingi |  |  |  |  |       |
+| ![CoinHe] | CoinHe |  |  |  |  |       |
+| ![Coinhub] | Coinhub |  |  |  |  |       |
+| ![CoinJar] | CoinJar |  |  |  |  |       |
+| ![Coinlim] | Coinlim |  |  |  |  |       |
+| ![CoinMate] | CoinMate |  |  |  |  |       |
+| ![CoinMetro] | CoinMetro |  |  |  |  |       |
+| ![CoinMex] | CoinMex |  |  |  |  |       |
+| ![Coinnest] | Coinnest |  |  |  |  |       |
+| ![Coinone] | Coinone |  |  |  |  |       |
+| ![CoinPlace] | CoinPlace |  |  |  |  |       |
+| ![Coinrate] | Coinrate |  |  |  |  |       |
+| ![Coinroom] | Coinroom |  |  |  |  |       |
+| ![CoinsBank] | CoinsBank |  |  |  |  |       |
+| ![Coinsbit] | Coinsbit |  |  |  |  |       |
+| ![Coinsuper] | Coinsuper |  |  |  |  |       |
+| ![CoinTiger] | CoinTiger |  |  |  |  |       |
+| ![Coinut] | Coinut |  |  |  |  |       |
+| ![CoinZest] | CoinZest |  |  |  |  |       |
+| ![Coinzo] | Coinzo |  |  |  |  |       |
+| ![COSS] | COSS |  |  |  |  |       |
+| ![C-Patex] | C-Patex |  |  |  |  |       |
+| ![CPDAX] | CPDAX |  |  |  |  |       |
+| ![CredoEx] | CredoEx |  |  |  |  |       |
+| ![Crex24] | Crex24 |  |  |  |  |       |
+| ![CROSS Exchange] | CROSS Exchange |  |       | |  |  | 
+| ![CRXzone] | CRXzone |  |  |  |  |       |
+| ![CryptalDash] | CryptalDash |  |  |  |  |      | 
+| ![CryptoBridge] | CryptoBridge |  |  |  |  |       |
+| ![Cryptology] | Cryptology |  |  |  |  |       |
+| ![CryptoMarket] | CryptoMarket |  |  |  |  |       |
+| ![Cryptomate] | Cryptomate |  |  |  |  |       |
+| ![Cryptonex] | Cryptonex |  |  |  |  |       |
+| ![Cryptopia] | Cryptopia |  |  |  |  |       |
+| ![Currency.com] | Currency.com |  |  |  |  |       |
 | ![Darb Finance] | Darb Finance |  |  |  |  | 
 | ![Dcoin] | Dcoin |  |  |  |  | 
 | ![DDEX] | DDEX |  |  |  |  | 
