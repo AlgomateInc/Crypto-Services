@@ -10,7 +10,7 @@ List of all the exchange being considered to be added to the Algomate Platform
 | ![AidosMarket] |  Aidos Market   |     |      |      |      |      |
 | ![Airswap]        |  AirSwap   |  Active   |      |      |      |   https://www.airswap.io/   |
 | ![Allbit]        |  Allbit   |  Active   |      |      |      |   https://allbit.com/   |
-| ![Allcoin]        |  Allcoin   |   Active  |  [Click Here](https://www.allcoin.ca/register?invite_code=RSVlw3&lang=en)   |   https://www.allcoin.ca/   |      |      |
+| ![Allcoin]        |  Allcoin   |   Active  |  [Click Here](https://www.allcoin.ca/register?invite_code=RSVlw3&lang=en)   |     |      |   https://www.allcoin.ca/    |
 | ![Altcoin Trader]        |  Altcoin Trader   |  Active   |      |      |      |  https://www.altcointrader.co.za/    |
 | ![Alterdice]        |  Alterdice   |     |      |      |      |      |
 | ![Altilly]        |  Altilly   |     |      |      |      |      |
